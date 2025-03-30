@@ -1,18 +1,23 @@
-## Getting Started
+# Projeto Java | Deploys Nuvem
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório para armazenar conteúdos relacionados com Java do curso Bradesco - Java Cloud Native da 
+[Digital Innovation One](https://web.dio.me/)
 
-## Folder Structure
+## 📖 Documentação
 
-The workspace contains two folders by default, where:
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação Github](https://docs.github.com/)
+- [Documentação Java](https://docs.oracle.com/en/java/)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🔍 Referências 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- [Digital Innovation One](https://web.dio.me/)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+```
+git init
+git log 
+git status
+git remote
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```
